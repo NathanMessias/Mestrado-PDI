@@ -1,5 +1,5 @@
 # Mestrado-PDI
-### Repositório dedicado para colocar atividades para a disciplina de Processamento de Imagens - INF, conforme solicitado pelo professor Dr. Ronaldo Martins da Costa
+### Repositório dedicado para as atividades propostas da disciplina de Processamento de Imagens - INF, conforme solicitado pelo professor Dr. Ronaldo Martins da Costa
 
 ### Atividade 1
 Utilizando o processo de limiarização, conforme mencionado na explicação, utilize as imagens desse repositório para segmentar características presentes.
